@@ -41,28 +41,26 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjh0cXU2ZjdsNGMzZGJzOGdhb
 
 ## 🚀 Estatísticas | Github
 
-<p>
+<div align="center" >
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="180" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=1LucasSilv&show_icons=true&locale=pt-br&theme=tokyonight&include_all_commits=true"
-/>
-<p>
+    src="https://github-readme-stats.vercel.app/api?username=1LucasSilv&show_icons=true&locale=pt-br&theme=tokyonight&include_all_commits=true"/>
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="180" 
     style="padding-right: 10px;" 
-    src= "https://github-readme-stats.vercel.app/api/top-langs/?username=1LucasSilv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-/>
-  
+    src= "https://github-readme-stats.vercel.app/api/top-langs/?username=1LucasSilv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+</div>
+
 <br/>
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1LucasSilv/1LucasSilv/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1LucasSilv/1LucasSilv/output/snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/1LucasSilv/1LucasSilv/output/snake.svg">
-</picture>
+<div align="center" >
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1LucasSilv/1LucasSilv/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1LucasSilv/1LucasSilv/output/snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/1LucasSilv/1LucasSilv/output/snake.svg">
+  </picture>
+</div>

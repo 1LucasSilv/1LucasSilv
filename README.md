@@ -63,3 +63,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-origi
     style="padding-right: 10px;" 
     src=https://github-readme-stats.vercel.app/api/top-langs/?username=1LucasSilv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9
 />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1LucasSilv/1LucasSilv/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1LucasSilv/1LucasSilv/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/1LucasSilv/1LucasSilv/output/snake.svg">
+</picture>

@@ -1,4 +1,14 @@
-# 👩🏻‍💻 Olá!! Sou Lucas Emanuel ;)
+</p>
+<p align="left">
+  <img
+src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxtaW04bzJqYzhlZ3hmMDl6amhrbDR5bG13aDhjdWc4ZnEzdTVteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xw0byfRYmmm0Ka4r4m/giphy.gif"
+    width="65"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=2EA1D4&width=480&separator=%3C&lines=Ol%C3%A1!!+Sou+Lucas+Emanuel%3CSeja+bem-vindo!"
+  />
+</p>
 
 **`⚡ Estudante de Redes de Computadores`** 
 **`🇧🇷 Brasil, JP-PB`**

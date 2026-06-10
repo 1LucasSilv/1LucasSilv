@@ -42,7 +42,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-origi
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-
 <br/>
 <br/>
 
@@ -64,3 +63,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-origi
     style="padding-right: 10px;" 
     src=https://github-readme-stats.vercel.app/api/top-langs/?username=1LucasSilv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9
 />
+
+<img align="right" width="120" height="120" alt="Image" src="https://github.com/user-attachments/assets/3f8ef511-167b-4ca1-b8b4-bc197cbb9608" />

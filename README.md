@@ -23,7 +23,7 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjh0cXU2ZjdsNGMzZGJzOGdhb
   <a href="https://www.linkedin.com/in/lucas-emanuel-5679463b4/">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-lucas emanuel-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge" />
   </a>
-  <a href="malito:silva.lucasbrs@gmail.com">
+  <a href="mailto:silva.lucasbrs@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-silvabrs-C5221F?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>

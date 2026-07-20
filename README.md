@@ -41,18 +41,9 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjh0cXU2ZjdsNGMzZGJzOGdhb
 
 ## 🚀 Estatísticas | Github
 
-<div align="center" >
-  <img 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=1LucasSilv&show_icons=true&locale=pt-br&theme=tokyonight&include_all_commits=true"/>
-  <img 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src= "https://github-readme-stats.vercel.app/api/top-langs/?username=1LucasSilv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&v=1"/>
-</div>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
 
 <br/>
 <br/>

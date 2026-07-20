@@ -43,7 +43,6 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjh0cXU2ZjdsNGMzZGJzOGdhb
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
 
 <br/>
 <br/>
